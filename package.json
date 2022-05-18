@@ -1,0 +1,29 @@
+{
+  "name": "aoc2020",
+  "version": "1.0.0",
+  "description": "Solutions to Advent of Code 2020",
+  "main": "solutions.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrin-krieger/adventofcode2020.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katrin-krieger/adventofcode2020/issues"
+  },
+  "homepage": "https://github.com/katrin-krieger/adventofcode2020#readme",
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "jest-cli": "^28.1.0"
+  }
+}
